@@ -1,4 +1,7 @@
-🎓 School Management System <div align="center"> 
+<h2> 🎓 School Management System </h2>
+
+
+<div align="center"> 
 
 A complete, modern school management system built with React + TypeScript and .NET 8
 
@@ -21,7 +24,7 @@ Frontend Setup cd frontend npm install npm start
 
 Frontend available at: http://localhost:3000
 
-We welcome contributions! Here's how you can help:
+<mark> We welcome contributions! Here's how you can help: </mark>
 
 Fork the repository Create your feature branch (git checkout -b feature/AmazingFeature) Commit your changes (git commit -m 'Add some AmazingFeature') Push to the branch (git push origin feature/AmazingFeature) Open a Pull Request 
 
@@ -31,7 +34,9 @@ Please read our Contributing Guide for more details.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-👩‍💻 Author <div align="center"> Maria J. Baptista 
+👩‍💻 Author
+
+<div align="center"> Maria Katchakile Carlos Baptista 
 
 Full-Stack Developer passionate about creating efficient educational solutions
 
@@ -49,8 +54,6 @@ If this project helped you, please consider giving it a ⭐ star on GitHub!
 
 Built with ❤️ using React, .NET, and modern web technologies
 
+
+
 © 2024 Maria J. Baptista. All rights reserved.
-
-</div> 📊 Project Stats <div align="center"> 
-
-</div>
