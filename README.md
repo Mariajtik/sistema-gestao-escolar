@@ -85,4 +85,4 @@ Built with ❤️ using React, .NET, and modern web technologies
 
 
 
-© 2024 Maria Baptista. All rights reserved.
+© 2025 Maria Baptista. All rights reserved.
