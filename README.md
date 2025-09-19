@@ -14,7 +14,8 @@ JWT Authentication • Full CRUD Operations • PDF Reports • External API Int
 Login: admin@escola.com / admin123
 
 </div> 🌟 Features <table> <tr> <td width="50%"> 
-  🎨 Frontend (React + TypeScript) 
+  🎨 Frontend (React + TypeScript)
+  <br></br>
   🔐 JWT Authentication with secure login/logout 
   📊 Interactive Dashboard with real-time statistics 
   👥 Student Management - Complete CRUD operations 
