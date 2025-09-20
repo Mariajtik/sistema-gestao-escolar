@@ -19,6 +19,7 @@ Login: admin@escola.com / admin123
   🔐 JWT Authentication with secure login/logout 
   <br></br>
   📊 Interactive Dashboard with real-time statistics 
+  <br></br>
   👥 Student Management - Complete CRUD operations 
   👨‍🏫 Teacher Management - Full professor profiles 
   📚 Course Management - Academic program control 
