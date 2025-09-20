@@ -17,6 +17,7 @@ Login: admin@escola.com / admin123
   🎨 Frontend (React + TypeScript)
   <br></br>
   🔐 JWT Authentication with secure login/logout 
+  <br></br>
   📊 Interactive Dashboard with real-time statistics 
   👥 Student Management - Complete CRUD operations 
   👨‍🏫 Teacher Management - Full professor profiles 
