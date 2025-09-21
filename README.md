@@ -23,6 +23,7 @@ Login: admin@escola.com / admin123
   👥 Student Management - Complete CRUD operations 
     <br></br>
   👨‍🏫 Teacher Management - Full professor profiles 
+  <br></br>
   📚 Course Management - Academic program control 
   📝 Enrollment Management - Registration tracking 
   📄 PDF Reports - Automated report generation 
