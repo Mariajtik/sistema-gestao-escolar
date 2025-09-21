@@ -21,6 +21,7 @@ Login: admin@escola.com / admin123
   📊 Interactive Dashboard with real-time statistics 
   <br></br>
   👥 Student Management - Complete CRUD operations 
+    <br></br>
   👨‍🏫 Teacher Management - Full professor profiles 
   📚 Course Management - Academic program control 
   📝 Enrollment Management - Registration tracking 
