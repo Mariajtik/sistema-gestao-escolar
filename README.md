@@ -25,6 +25,7 @@ Login: admin@escola.com / admin123
   👨‍🏫 Teacher Management - Full professor profiles 
   <br></br>
   📚 Course Management - Academic program control 
+  <br></br>
   📝 Enrollment Management - Registration tracking 
   📄 PDF Reports - Automated report generation 
   🌍 External API - Brazilian ZIP code integration (ViaCEP) 
