@@ -31,7 +31,7 @@ Login: admin@escola.com / admin123
   🌍 External API - Brazilian ZIP code integration (ViaCEP) 
   📱 Responsive Design - Modern UI with Tailwind CSS 
   ⚡ Global State - Context API for authentication 
-  ✅ Form Validation - Comprehensive input validation </td> <td width="5%"> 🚀 Backend (.NET 8 WebAPI) 
+  ✅ Form Validation - Comprehensive input validation </td> <td> 🚀 Backend (.NET 8 WebAPI) 
     🛡️ JWT Authentication - Secure tokens with refresh 
     🗄️ Entity Framework Core - SQL Server ORM 
     👤 Identity Framework - User management system 
