@@ -160,4 +160,4 @@ Se este projeto o ajudou, por favor, considere dar-lhe uma ⭐ estrela no GitHub
 © 2025 Maria Baptista. Todos os direitos reservados.
 
 </div>
-```
+
