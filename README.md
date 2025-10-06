@@ -21,6 +21,20 @@
 ### 🌟 Features
 
 
+| 🎨 Frontend (React + TypeScript) | 🚀 Backend (.NET 8 WebAPI) |
+|:---|:---|
+| 🔐 JWT Authentication with secure login/logout | 🛡️ JWT Authentication - Secure tokens with refresh |
+| 📊 Interactive Dashboard with real-time statistics | 🗄️ Entity Framework Core - ORM for SQL Server |
+| 👥 Student Management - Complete CRUD operations | 👤 Identity Framework - User management system |
+| 👨‍🏫 Teacher Management - Complete teacher profiles | 🏗️ Repository Pattern - Clean architecture |
+| 📚 Course Management - Academic program control | 🔄 AutoMapper - DTO/Entity mapping |
+| 📝 Enrollment Management - Registration tracking | 📋 PDF Generation - iText7 integration |
+| 📄 PDF Reports - Automated report generation | 🌐 HTTP Client - External API consumption |
+| 🌍 External API - Brazil CEP integration (ViaCEP) | 📚 Swagger/OpenAPI - Auto-generated documentation |
+| 📱 Responsive Design - Modern UI with Tailwind CSS | 📝 Structured Logging - Complete logging system |
+| ⚡ Global State - Context API for authentication | 🔒 CORS Configuration - Frontend integration |
+| ✅ Form Validation - Complete input validation | ✅ Data Validation - Annotation-based validation |
+| | 🌱 Database Seeding - Initial data setup |
 
 
 
